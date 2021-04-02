@@ -1,5 +1,7 @@
 var NAVTREEINDEX2 =
 {
+"d7/d98/spirograph_8c.html#a0daa148091ec953809fc172289f773d3":[15,0,7,0,2],
+"d7/d98/spirograph_8c.html#a3c04138a5bfe5d72780bb7e82a18e627":[15,0,7,0,1],
 "d7/d98/spirograph_8c.html#a525335710b53cb064ca56b936120431e":[15,0,7,0,0],
 "d7/d98/spirograph_8c.html#a708a4c1a4d0c4acc4c447310dd4db27f":[15,0,7,0,3],
 "d7/db5/md_exercism__r_e_a_d_m_e.html":[8],
@@ -247,7 +249,5 @@ var NAVTREEINDEX2 =
 "dc/d47/realtime__stats_8c.html":[15,0,11,9],
 "dc/d47/realtime__stats_8c.html#a34be233a9200ee2065f6b7b27e2d9a96":[15,0,11,9,2],
 "dc/d47/realtime__stats_8c.html#a3c04138a5bfe5d72780bb7e82a18e627":[15,0,11,9,0],
-"dc/d47/realtime__stats_8c.html#a63ddcdaab24f722f0963fa2fbe0ae628":[15,0,11,9,1],
-"dc/d47/realtime__stats_8c.html#aa54c915581fcc495489175a4386d59fd":[15,0,11,9,3],
-"dc/d63/problem__8_2sol1_8c.html":[15,0,12,21,0]
+"dc/d47/realtime__stats_8c.html#a63ddcdaab24f722f0963fa2fbe0ae628":[15,0,11,9,1]
 };
